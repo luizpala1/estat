@@ -6,9 +6,10 @@
 #theme: jekyll-theme-minimal
 #theme: moonwalk
 
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title:  Luiz Otávio Pala
+# author: 
+description: UFLA
+url: https://luizpala1.github.io/estat/ # root address of the site
 description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
